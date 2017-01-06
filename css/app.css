@@ -8,7 +8,30 @@ DESKTOP NAVIGATION
 /********************************************************************
 HERO NAVIGATION
 *********************************************************************/
+.hero {
+	background-color: #999;
+	padding-top: 80px;
+	padding-right: 70px;
 
+	/* top right bottom left */
+	padding: 50px 60px 40px 30px; 
+
+	/* one for top/bottom; one for left/right */
+	padding: 80px 2px;
+	height: 400px;
+
+}
+
+.button.success{
+	background-color: purple;
+}
+
+/* This will make the button full-width */
+/*
+.button {
+	display: block;
+}
+*/
 
 
 
